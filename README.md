@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Emre Hosgor
-I am interested in Cyber Security and AI. This repository is for presenting my projects, source codes, course works and lecture notes for the community. 
+# 👋 Hello, I'm Emre Hosgor
+
+Welcome to my GitHub repository!
+
+## About Me
+
+I'm passionate about **Cyber Security** and **Artificial Intelligence**. This repository serves as a hub for my projects, source codes, coursework, and lecture notes.
+
+## 📚 Repository Contents and 🚀 Highlights
+
+- **Projects**: Projects are distributed in Repositories.
+- **Source Codes**: Utilities, quick fixes, useful snippets, notebooks, .py, data and cheatsheets for cyber security.
+- **Course Works**
+- **Lecture Notes, academic research**
+
+## 🎯 Objectives
+1. Share knowledge and resources with the community.
+2. Collaborate with like-minded individuals and teams.
+3. Continuously learn and grow in the fields of Cyber Security and AI.
 
 
-
-<!---
-3mr3h/3mr3h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for visiting my Git! I hope you find the resources here useful and inspiring. Happy coding! 🚀
